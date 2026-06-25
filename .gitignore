@@ -1,0 +1,13 @@
+# macOS Finder metadata
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+
+# Virtual environments
+.venv/
+
+# IDE
+.idea/
+.vscode/
