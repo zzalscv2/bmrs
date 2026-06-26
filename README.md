@@ -1,5 +1,4 @@
-# bmrs
-Building Maintainable Research Software
+# Building Maintainable Research Software (BMRS)
 
 Research software should not just be "better", it must be maintainable. From a engineering perspective, "better" is a "weak word" as it cannot be measured empircally using metrics.
 
